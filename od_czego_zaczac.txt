@@ -1,0 +1,68 @@
+Linki dla beginnera:
+> https://forum.pasja-informatyki.pl/424163/bezpieczenstwo-od-czego-zaczac-czego-sie-uczyc
+> https://sekurak.pl/kariera-w-it-security-pytanie-od-czytelnika/
+> https://sekurak.pl/jak-zaczac-nauke-bezpieczenstwa-it/
+> https://nofluffjobs.com/blog/jak-zostac-pentesterem-i-specjalista-bezpieczenstwa/
+> https://4programmers.net/Forum/Edukacja/296953-cyberbezpieczenstwo
+> https://www.slideshare.net/ChrisGrayson/so-you-want-to-be-a-hacker
+> https://www.troyhunt.com/careers-in-security-ethical-hacking-and-advice-on-where-to-get-started/
+> https://lcamtuf.blogspot.com/2016/08/so-you-want-to-work-in-security-but-are.html
+> https://lcamtuf.blogspot.com/2016/08/so-you-want-to-work-in-security-but-are.html
+> https://danielmiessler.com/blog/build-successful-infosec-career/#gs.DtVCbbw
+> https://blog.netspi.com/resources-for-aspiring-penetration-testers/
+> https://www.gracefulsecurity.com/becoming-a-penetration-tester/
+> https://www.corelan.be/index.php/2015/10/13/how-to-become-a-pentester/
+> https://sekurak.pl/sekurak-security-bookstore-ksiazki-o-bezpieczenstwie-do-kupienia-u-nas/
+
+Polecane do praktyki:
+> https://sekurak.pl/trenowanie-testow-penetracyjnych-na-zywych-systemach/
+> http://www.dvwa.co.uk/
+> https://github.com/adamdoupe/WackoPicko
+> http://sourceforge.net/projects/mutillidae/
+> https://github.com/SpiderLabs/SQLol
+> https://code.google.com/p/owasp-hackademic-challenges/
+> http://code.google.com/p/webgoat/
+> http://sourceforge.net/projects/hackxor/
+> http://code.google.com/p/bodgeit/
+> https://sekurak.pl/jak-zaczac-nauke-bezpieczenstwa-it/
+> https://blog.rapid7.com/2016/11/15/test-your-might-with-the-shiny-new-metasploitable3/
+> https://rozwal.to/login
+> https://code.likeagirl.io/ctf-beginner-guide-by-a-beginner-3c86e4959fcc
+> https://microcorruption.com/login
+
+Dobre artykuły teoretyczne:
+> https://securitum.pl/audyty/?s
+
+Przydatne strony/blogi od newsów/artykułów/kursów:
+> https://www.cybrary.it/
+> https://news.ycombinator.com
+> https://zaufanatrzeciastrona.pl/
+> https://niebezpiecznik.pl/
+> https://sekurak.pl/
+> https://www.enigmagroup.org/
+> https://www.hackthissite.org/pages/index/index.php
+> https://www.hackerone.com/
+> https://www.bugcrowd.com/
+> https://cyberarms.wordpress.com/
+> https://dawidbalut.com/
+
+Kursy z coursera:
+> https://www.coursera.org/browse?source=deprecated_spark_cdp
+> https://www.coursera.org/specializations/cyber-security
+> https://www.coursera.org/learn/crypto
+
+Nauka a praca w branży IT sec i wpisy do CV:
+> https://gynvael.coldwind.pl/?id=338
+> https://gynvael.coldwind.pl/?id=337
+> https://gynvael.coldwind.pl/?id=366
+> https://youtu.be/ILYiq0xHkrw
+
+Potencjalne miejsca pracy:
+> https://jobs.atos.net/
+
+Eventy tematyczne/szkolenia:
+> https://sekurak.pl/?s=sekurak+hacking+party
+> https://securitum.pl/szkolenia/
+
+Ciekawe książki:
+> Basic security testing third edition ok. 200zł
